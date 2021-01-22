@@ -1,0 +1,7 @@
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\bin\Debug\gettersAndSetters.exe.config
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\bin\Debug\gettersAndSetters.exe
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\bin\Debug\gettersAndSetters.pdb
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\obj\Debug\gettersAndSetters.csprojAssemblyReference.cache
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\obj\Debug\gettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\obj\Debug\gettersAndSetters.exe
+C:\Users\Dorota\source\repos\gettersAndSetters\gettersAndSetters\obj\Debug\gettersAndSetters.pdb
