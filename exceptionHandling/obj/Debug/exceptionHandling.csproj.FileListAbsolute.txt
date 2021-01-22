@@ -1,0 +1,7 @@
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe.config
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.pdb
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csprojAssemblyReference.cache
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.exe
+C:\Users\Dorota\source\repos\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.pdb
