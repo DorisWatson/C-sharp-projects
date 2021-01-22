@@ -1,0 +1,7 @@
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\ComplexCalculator.exe.config
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\ComplexCalculator.exe
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\ComplexCalculator.pdb
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.csprojAssemblyReference.cache
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.exe
+C:\Users\Dorota\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.pdb
