@@ -1,0 +1,7 @@
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\obj\Debug\SwitchStatement_c.csprojAssemblyReference.cache
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\obj\Debug\SwitchStatement_c.csproj.CoreCompileInputs.cache
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\bin\Debug\SwitchStatement_c.exe.config
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\bin\Debug\SwitchStatement_c.exe
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\bin\Debug\SwitchStatement_c.pdb
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\obj\Debug\SwitchStatement_c.exe
+C:\Users\Dorota\source\repos\SwitchStatement_c\SwitchStatement_c\obj\Debug\SwitchStatement_c.pdb
